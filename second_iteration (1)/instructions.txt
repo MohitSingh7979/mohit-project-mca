@@ -1,0 +1,6 @@
+make sure to install:
+  streamlit
+  face_recognition
+
+to run:
+  streamlit run app.py
